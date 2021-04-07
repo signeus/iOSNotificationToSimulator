@@ -1,0 +1,9 @@
+{
+    "aps": {
+        "alert": "LOCAL Notification Test: Hello world",
+        "sound": "default",
+        "badge": 1
+        }
+}
+ 
+
